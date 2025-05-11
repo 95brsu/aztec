@@ -3,7 +3,7 @@
 
 ![Screenshot_4](https://github.com/user-attachments/assets/2491425a-56ef-4c7a-ba08-405c49d8bdd5)
 
-нажимаем CREATE ACCOUNT и дожидаемся подтверждения как на скрине ниже b далее нажимаем JOIN DISCORD
+нажимаем CREATE ACCOUNT и дожидаемся(довольно долго) подтверждения  как на скрине ниже и далее нажимаем JOIN DISCORD
 
 ![Screenshot_7](https://github.com/user-attachments/assets/7c9f46bc-337e-4607-8d63-202f680da0e3)
 
@@ -20,7 +20,7 @@ DISCORD можно закрывать
 ![Screenshot_14](https://github.com/user-attachments/assets/f5ec6a7b-9589-414e-9d31-785994ca39f2)
 ![Screenshot_16](https://github.com/user-attachments/assets/010323a9-a605-446e-8aeb-bd29c1f43d7b)
 
-далее увидите окно поздравления, здачит все сделано правильно
+далее после непродолжительного ожидания так увидите окно поздравления, все сделано правильно!
 
 ![Screenshot_17](https://github.com/user-attachments/assets/4cfa1010-bcdd-4fd1-94be-e6a2a6b1e7fe)
 
